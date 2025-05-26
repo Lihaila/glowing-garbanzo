@@ -8,6 +8,9 @@
 -->
 
 # Communicate using Markdown
+# <h1>This is a test
+## <h2>This is another test
+### 中文支持如何
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
